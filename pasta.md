@@ -4,4 +4,4 @@ title: Pasta
 permalink: /pasta/
 ---
 
-[Low-Cal Fettuccine Alfredo](fettuccine-alredo.html)
+[Low-Cal Fettuccine Alfredo](fettuccine-alfredo.html)

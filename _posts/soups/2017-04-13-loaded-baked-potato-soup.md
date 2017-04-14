@@ -27,6 +27,6 @@ published: true
 1. Warm large stock pot over medium-high heat.  Add butter to pot.  Once butter melts, whisk in flour
 2. Slowly whisk in chicken stock.  Continue whisking and add sour cream and cream cheese until completely blended.
 3. Slice potatoes in half and scoop out insides of potato, add to pot.
-4. Smash potatoes into chunks using a potato masher or wooden spoon until disired consistency is reached.
+4. Smash potatoes into chunks using a potato masher or wooden spoon until desired consistency is reached.
 5. Add sharp cheddar, salt, and pepper.  Stir until cheese is melted
 6. Top with mild cheddar cheese and chives and serve.
