@@ -7,7 +7,8 @@ permalink: /:categories/:title.html
 published: true
 ---
 
-# Kevin's Guacamole
+> Author: Kevin Coffey
+
 Kevin's simple, yet delicious guacamole recipe.
 Goes great with fajitas, tacos, or simply as a dip.
 

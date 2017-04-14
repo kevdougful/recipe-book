@@ -4,4 +4,5 @@ title: Dips
 permalink: /dips/
 ---
 
-[Kevin's Guacamole](kevins-guacamole.html)
+[Kevin's Guacamole](kevins-guacamole.html)  
+[Spinach Artichoke Dip](spinach-artichoke-dip.html)
