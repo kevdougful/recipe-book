@@ -7,9 +7,9 @@ permalink: /:categories/:title.html
 published: true
 ---
 
-# Loaded Baked Potato Soup
+> Author: Kevin Coffey
 
-## Ingredients
+#### Ingredients
 - 4 tbsp unsalted butter
 - 4 tbsp all-purpose flour
 - 6 cup chicken broth
@@ -23,7 +23,7 @@ published: true
 - 3 oz shredded mild cheddar cheese
 - 1 cup chopped chives
 
-## Directions
+#### Directions
 1. Warm large stock pot over medium-high heat.  Add butter to pot.  Once butter melts, whisk in flour
 2. Slowly whisk in chicken stock.  Continue whisking and add sour cream and cream cheese until completely blended.
 3. Slice potatoes in half and scoop out insides of potato, add to pot.

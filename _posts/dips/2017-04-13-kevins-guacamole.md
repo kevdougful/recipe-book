@@ -12,7 +12,7 @@ published: true
 Kevin's simple, yet delicious guacamole recipe.
 Goes great with fajitas, tacos, or simply as a dip.
 
-## Ingredients
+#### Ingredients
 
 - 3 ripe Haas avocados
 - 1 cup chopped cilantro
@@ -24,7 +24,7 @@ Goes great with fajitas, tacos, or simply as a dip.
 - 2 fl oz lime juice
 - Optional 1/4 tsp cayenne pepper
 
-## Directions
+#### Directions
 
 1. Peel avocados and coat thoroughly in lime juice. Cover and let stand 10-15 minutes
 1. Drain lime juice from avocados and save.
