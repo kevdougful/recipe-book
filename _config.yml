@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   contribute). If you have a recipe you'd like to share contact kevdougful@gmail.com
   and he'll get into the mix. If you're code inclined, help maintain and improve
   the site by contributing to the repository at https://github.com/kevdougful/recipe-book
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/recipe-book" # the subpath of your site, e.g. /blog
 url: "http://www.kevdougful.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kevdougful
 github_username:  kevdougful
